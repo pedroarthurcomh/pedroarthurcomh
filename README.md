@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @pedroarthurcomh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ig::@pedroarthurcomh
+Olá! 👋🏻
 
-<!---
-pedroarthurcomh/pedroarthurcomh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Pedro, atualmente atuo como desenvolvedor front-end na MTM Tecnologia e trabalho com tecnologia desde 2022. Estou cursando Análise e Desenvolvimento de Sistemas e tenho trabalhado com algumas linguagens e frameworks como Angular, JavaScript, Typescript, Vue, HTML and CSS. Além de ter experiência também com Tailwind, GIT e um pouco de Python.
+
+Estou trabalhando em alguns projetos pessoais para montar o portfólio, então em breve postarei mais trabalhos aqui. Obrigado!
